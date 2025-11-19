@@ -7,11 +7,12 @@
    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/>
 </h1>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me 
    <div id="header" align="center">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 
    </div>  
    I'm  a student  based in Pattani, Thailand. I've been learning JavaScript. I enjoy coding open-source projects that solve unique problems.
+
 
 ## 🛠 Languages and Tools :
 
@@ -35,12 +36,12 @@
      <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a> 
 </p> 
 <br>
+
  
 ## 🔗 Socials  
 
  <p align="left"> <a href="https://www.github.com/madnoor-2512" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
  </p>
-<br>
 
 
 ## :fire: My Stats :
@@ -48,7 +49,6 @@
 <a href="http://www.github.com/madnoor-2512"><img src="https://github-readme-stats.vercel.app/api?username=madnoor-2512&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="madnoor-2512's GitHub stats" /></a>
 
 <a href="https://github.com/madnoor-2512" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madnoor-2512&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=madnoor-2512&style=flat-square&color=blue" alt="account counter" />
