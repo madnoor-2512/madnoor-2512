@@ -20,7 +20,7 @@ I enjoy building practical projects and learning through open-source work.
 ---
 
 
-## 🧑‍💻 Languages :
+## 🧑‍💻 Languages 
 
 <p align="left"> 
    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
